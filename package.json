@@ -1,7 +1,7 @@
 {
-  "name": "webtask-tools",
-  "version": "3.4.0",
-  "description": "Tools to facilitate working in a webtask context",
+  "name": "webtask-tools-with-audience-option",
+  "version": "3.4.1",
+  "description": "Tools to facilitate working in a webtask context with audience option",
   "main": "./lib/index.js",
   "scripts": {
     "lint": "eslint **/*.js",
